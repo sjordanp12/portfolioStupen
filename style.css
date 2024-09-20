@@ -7,11 +7,9 @@ body {
 }
 
 /* Styling Navbar */
-.navbar-nav {
-  transition: all ease-in-out 0.3s !important;
-}
+
 #Home {
-  margin-top: 300px;
+  margin-top: 200px;
 }
 
 .titleAboutMe {
